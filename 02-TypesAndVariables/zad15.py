@@ -1,0 +1,8 @@
+print("Odpowiedź a)", 15*38)
+print("Odpowiedź b)", (3+7)*(5+9))
+print("Odpowiedź c", 7//2)
+print("Odpowiedź d", 48 % 5)
+print("Odpowiedź e", (8+7+4+2)/4)
+print("Odpowiedź f", 2**10)
+print("Odpowiedź g", 49**(1/2))
+print("Odpowiedź h", 0.25*80)

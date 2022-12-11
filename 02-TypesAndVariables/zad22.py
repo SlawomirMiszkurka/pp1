@@ -1,0 +1,5 @@
+print("Podaj cenę z vat")
+cena = float(input())
+brutto = round(cena/1.23, 2)
+vat = round(cena-brutto, 2)
+print(f'Brutto wynosi{brutto} ,a vat wynosi {vat} ')
