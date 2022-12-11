@@ -1,4 +1,3 @@
-print("tratahadj")
 pi = 3.14
 r = 5
 pole = pi*r**2
