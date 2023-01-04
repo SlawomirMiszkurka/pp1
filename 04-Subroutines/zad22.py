@@ -1,3 +1,3 @@
-# x=lambda a: return a%2==0
+x=lambda a: return a%2==0
 
-# print(x(10))
+print(x(10))
